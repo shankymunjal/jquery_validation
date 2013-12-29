@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["shanky.munjal@quovantis.com"]
   spec.description   = %q{It will handle validations inline}
   spec.summary       = %q{Validations with ajax}
-  spec.homepage      = ""
+  spec.homepage      = "http://rubygems.org/gems/jquery_validation"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
