@@ -1,6 +1,6 @@
 # JqueryValidation
 
-TODO: Write a gem description
+This gem will validates the form asynchronously. 
 
 ## Installation
 
@@ -18,7 +18,15 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Execute:
+
+		$ rails g jquery_validation
+
+Above command will add inline_validate.js file in your assets/javascripts folder and validation_controller.rb in controllers.
+
+Add 'validate-form' class to the form 
+'check_validation' class to the attribute 
+and 'submit-modal' class to the submit button.
 
 ## Contributing
 
