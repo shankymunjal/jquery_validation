@@ -20,7 +20,7 @@ Or install it yourself as:
 
 Execute:
 
-		$ rails g jquery_validation
+    $ rails g jquery_validation
 
 Above command will add inline_validate.js file in your assets/javascripts folder and validation_controller.rb in controllers.
 
